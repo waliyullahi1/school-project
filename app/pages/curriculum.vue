@@ -123,7 +123,7 @@
                         <UiTypographyH2 class=" text-white text-center">Enrol your child today</UiTypographyH2>
                        <div class=" h-0.5 w-20  mb-7 mt-3 bg-white"> </div> 
 
-                        <NuxtLink class=" bg-white px-4 rounded-full py-2 cursor-pointer  font-medium hover:bg-secondary hover:text-white duration-300 text-black ">Apply Now</NuxtLink>
+                        <NuxtLink to="/warning" class=" bg-white px-4 rounded-full py-2 cursor-pointer  font-medium hover:bg-secondary hover:text-white duration-300 text-black ">Apply Now</NuxtLink>
                    </div>
                  </div>
             </Container>

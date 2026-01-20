@@ -174,7 +174,9 @@ watch(route, () => {
 
 // Other functions...
 const openform = () => {
-  router.push('/forms')
+  
+  
+  router.push('/warning')
 }
 
 function toggleAbout() {

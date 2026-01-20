@@ -327,9 +327,9 @@ const openChat = () => {
 
 }
 const openform = () => {
-  console.log('sssss');
   
-  router.push('/forms')
+  
+  router.push('/warning')
 }
 
 const stepToTakeList = ref([
