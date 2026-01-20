@@ -64,7 +64,7 @@ const projectlist = ref(true)
          {
           name: "Mukadam  Badmos Imam",
           matric: "24/25OY057",
-          photo: "/images/57.jpg",
+          photo: "/images/157.jpg",
         },
         {
           name: "Nurudeen  Mujeebah Opeyemi",
@@ -75,17 +75,17 @@ const projectlist = ref(true)
         {
           name: "Otitoju Eunice Mercy",
           matric: "24/25OY072",
-          photo: "/images/72.jpg",
+          photo: "/images/172.jpg",
         },
         {
           name: "Oyerinde Deborah ",
           matric: "24/25OY073",
-          photo: "/images/73.jpg",
+          photo: "/images/173.jpg",
         },
                 {
           name: "Okanlawon Fayidat Oyindamola ",
           matric: "22/25OY073",
-          photo: "/images/fayidah.jpg",
+          photo: "/images/1fayidah.jpg",
         },
           {
           name: "Sulyman suliyah oluwakemi ",
@@ -105,7 +105,7 @@ const projectlist = ref(true)
                 {
           name: "Usman Aminat Bisola ",
           matric: "24/25OY084",
-          photo: "/images/84.jpg",
+          photo: "/images/184.jpg",
         },
          {
           name: "Usman Aminat Bisola ",
