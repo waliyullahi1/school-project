@@ -71,7 +71,7 @@
           name: "Abdulwaheed Waliyullahi",
           matric: "24/25OY011",
           photo: "/images/waliu.jpg",
-          paid:false
+          
         },
         {
           name: "Dosunmu  Boluwatife",
