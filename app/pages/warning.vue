@@ -71,7 +71,7 @@
           name: "Abdulwaheed Waliyullahi",
           matric: "24/25OY011",
           photo: "/images/waliu.jpg",
-          
+           paid:true
         },
         {
           name: "Dosunmu  Boluwatife",
@@ -83,7 +83,7 @@
           name: "Mukadam  Badmos Imam",
           matric: "24/25OY057",
           photo: "/images/157.jpg",
-          paid:false
+           paid:true
         },
         {
           name: "Nurudeen  Mujeebah Opeyemi",
