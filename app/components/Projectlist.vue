@@ -1,7 +1,7 @@
 <template>
   <div :class="projectlist?' flex':'flrx hidden'" class="fixed  bg-black/65 h-full z-90 w-full top-0 left-0 flex justify-center items-center">
     <div class="w-11/12 md:w-1/2 bg-white p-6 rounded-lg shadow-lg max-h-[90vh] overflow-y-auto">
-     <div class=" fixed">
+     <div class=" fixed da">
       <button @click="toggletemplate" class="  relative bottom-9 right-5 mt-4   bg-red-700 text-white text-xs ab  h-6 w-6 rounded-full ">X</button>
      </div> 
       <!-- Warning -->
